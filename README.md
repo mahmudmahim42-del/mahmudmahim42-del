@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mahim 👋
 
+### Frontend Developer in the Making | Full Stack AI Developer
 
-**mahmudmahim42-del/mahmudmahim42-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Full Stack AI Development and building modern, responsive web applications.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- Git & GitHub
+- React.js
+- Node.js
+- AI & Automation
 
+### 🛠️ Technologies
 
+HTML • CSS • Tailwind CSS • JavaScript • Git • GitHub
+
+### 📌 Current Focus
+
+- Building responsive websites
+- Converting Figma designs into websites
+- Improving JavaScript skills
+- Building real-world projects
+- Learning Full Stack Development
+
+### 📂 Featured Projects
+
+Check out my repositories below to see what I'm building.
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: mahmudmahim42@gmail.com
